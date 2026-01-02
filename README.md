@@ -1,1 +1,1 @@
-# Hello GitHub 2025
+# Hello GitHUb 2025
